@@ -132,7 +132,7 @@
 				<configuration>
 					<pluginKey>java-custom</pluginKey>
 					<pluginName>Java Custom Rules</pluginName>
-					<pluginClass>org.sonar.samples.java.Amina-sonarsource</pluginClass>
+					<pluginClass>org.sonar.samples.java.MyJavaRulesPlugin</pluginClass>
 					<sonarLintSupported>true</sonarLintSupported>
 					<sonarQubeMinVersion>6.7</sonarQubeMinVersion>
 				</configuration>
